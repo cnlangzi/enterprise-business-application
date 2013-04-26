@@ -14,19 +14,19 @@
 
 交流
 ----
-*[腾讯微博](<http://t.qq.com/imlangzi>)
+* [腾讯微博](<http://t.qq.com/imlangzi>)
 
 
 
 参考资料
 --------
-*《金蝶BOS-企业架构之中国最佳实践》
+* 《金蝶BOS-企业架构之中国最佳实践》
 
 授权许可
 --------
 除特别声明外，本书中的内容使用[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)（创作共用署名-非商业性使用-相同方式共享3.0许可协议）授权，代码遵循[BSD 3-Clause License](<https://github.com/cnlangzi/enterprise-business-application/blob/master/LICENSE.md>)（3项条款的BSD许可协议）。
 
-#开始阅读
+开始阅读
 ---------
 [开始阅读](<https://github.com/cnlangzi/enterprise-business-application/blob/master/preface.md>)
 
