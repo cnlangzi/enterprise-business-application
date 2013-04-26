@@ -26,5 +26,5 @@
 
 开始阅读
 ---------
-[开始阅读](<https://github.com/cnlangzi/enterprise-business-application/blob/master/preface.md>)
+[开始阅读](<https://github.com/cnlangzi/enterprise-business-application/blob/master/toc.md>)
 
